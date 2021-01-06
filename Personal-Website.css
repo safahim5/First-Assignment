@@ -1,0 +1,97 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+.maroon-highlight{
+    color:maroon;
+}
+.font{
+    font-size: 40px;
+    text-align: center;
+}
+
+.intro{
+    width:35%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+    text-align: justify;
+}
+.intro img{
+    width: 100%;
+
+}
+#link-button{
+    text-decoration: none;
+    background-image: linear-gradient(DodgerBlue,black );
+    padding:5px 10px;
+    color:white;
+    border-radius: 10px;
+}
+#profile-link{
+    text-decoration: none;
+    background-image:linear-gradient(red,darkred);
+    padding:5px 10px;
+    color: whitesmoke;
+    border-radius: 10px;
+    padding:5px 10px;
+  }
+section{
+    height:400px;
+   padding-bottom: 150px;
+   text-align: center;
+  }
+  #bg-color{
+      color: wheat;
+  }
+.working-project{
+    width: 20%;
+    float: left;
+    height: 105%;
+    margin-right: 5%;
+    margin-left:5%;
+    padding-left:2%;
+    text-align: justify;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 25px;
+}
+.working-project img{
+    width: 100%;
+    margin-left: -10px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+h3{
+    color: navy;
+}
+#dark-red{
+    color: darkred;
+}
+#size{
+    font-size: 50px;
+
+}
+.chat{
+    width: 600px;
+    margin:50px auto 30px auto;
+    height: 100px;
+}
+.bg-size{
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    font-weight: 700;
+    height:80px;
+    padding: 50px;
+}
+.heading1{
+    display: contents;
+        color: white;
+}
+.heading2 {
+        margin-left: 350px;
+        font-size: 16px;
+        background-image: linear-gradient(maroon,red);
+        padding:10px;
+        border-radius: 50px;
+}
